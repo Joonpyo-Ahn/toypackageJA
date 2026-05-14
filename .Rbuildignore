@@ -3,3 +3,7 @@
 ^project\.Rcheck$
 ^project.*\.tar\.gz$
 ^project.*\.tgz$
+^toypackageJA\.Rcheck$
+^toypackageJA.*\.tar\.gz$
+^toypackageJA.*\.tgz$
+^LICENSE\.md$
