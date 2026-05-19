@@ -18,4 +18,5 @@ Scaling by min-max
 \examples{
 x <- 1:5
 min_max_scale(x)
+
 }
